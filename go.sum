@@ -1,2 +1,6 @@
 github.com/KomangSetiana/hello-go v1.0.0 h1:WAoXNDZUvr8LjycjUvZS/aQcuyeJsS16fWFBNQjTglY=
 github.com/KomangSetiana/hello-go v1.0.0/go.mod h1:KJ9eO7C/8fzu1mtyKPBABTSxncvjJSjXa8rhsRFb5Mg=
+github.com/KomangSetiana/hello-go v1.0.1 h1:yMRLibfl2wSzehdboTKXoMSp4T9pqyRb47rEJtCLG0s=
+github.com/KomangSetiana/hello-go v1.0.1/go.mod h1:KJ9eO7C/8fzu1mtyKPBABTSxncvjJSjXa8rhsRFb5Mg=
+github.com/KomangSetiana/hello-go/v2 v2.0.0 h1:2I754QH2DvNcPfX3/0ZHmrU0cxMq3vVmJ5BFcfE+k1k=
+github.com/KomangSetiana/hello-go/v2 v2.0.0/go.mod h1:WBqrLM8b8FGa75kWCAWZNroK75KWZjT5qqfwwsCNvVY=
